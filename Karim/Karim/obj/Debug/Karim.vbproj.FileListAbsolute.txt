@@ -1,0 +1,13 @@
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\Karim.exe.config
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\Karim.exe
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\Karim.pdb
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\Karim.xml
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\obj\Debug\Karim.Form1.resources
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\obj\Debug\Karim.Resources.resources
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\obj\Debug\Karim.vbproj.GenerateResource.Cache
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\obj\Debug\Karim.exe
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\obj\Debug\Karim.xml
+C:\Users\Professional.Professional-PC.000\Desktop\Proj\Karim\Karim\obj\Debug\Karim.pdb
